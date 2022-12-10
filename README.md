@@ -5,7 +5,7 @@ billboard_scraper.py:
 - Class and methods for scraping top 100 songs and corresponding artists by year from Billboard Top 100 
 
 genius_api_client.py:
-- Class and methods for collecting song lyrics using GEnius API
+- Class and methods for collecting song lyrics using Genius API
 
 spotify_api_client.py:
 - Class and methods for collecting song metrics using Spotify API (mostly from CodeEntrepreneurs on Youtube)
