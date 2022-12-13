@@ -20,5 +20,6 @@ collect_lyrics.ipynb:
 sentiment_score.ipynb
 - Extract sentiment score from lyrics using nltk and VADER lexicon
 
-
+analysis.piynb
+- EDA, Data visualization, PCA, KMeans clustering
 
